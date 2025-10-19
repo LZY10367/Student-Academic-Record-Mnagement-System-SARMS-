@@ -1,0 +1,120 @@
+<mxfile host="Electron" modified="2025-06-24T06:41:15.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="kJkBN5XayT2wzAvvX-UO" version="24.1.0" type="device">
+  <diagram name="第 1 页" id="1AyqnIW69qcDTToNpppj">
+    <mxGraphModel dx="928" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-1" target="OCbMi4v_ZEJn_nThPAzh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-1" value="学生学籍管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-2" target="OCbMi4v_ZEJn_nThPAzh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-2" value="教务人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-3" target="OCbMi4v_ZEJn_nThPAzh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-3" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-4" target="OCbMi4v_ZEJn_nThPAzh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-4" value="管理人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;系统维护&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-7" target="OCbMi4v_ZEJn_nThPAzh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;系统运行监控&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查询信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;打印成绩&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;学籍异动申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439.04761904761904" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;学籍证明申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-13" target="OCbMi4v_ZEJn_nThPAzh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;转专业申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-14" target="OCbMi4v_ZEJn_nThPAzh-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;成绩录入与修改&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565.2380952380952" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;发起学业预警&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605.2380952380952" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;毕业资格确定&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645.2380952380952" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;审核毕业申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OCbMi4v_ZEJn_nThPAzh-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685.2380952380952" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;学籍异动审核&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OCbMi4v_ZEJn_nThPAzh-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;学籍信息注册&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="310" width="30" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
